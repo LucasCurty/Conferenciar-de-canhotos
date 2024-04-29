@@ -1,4 +1,4 @@
-# Automação de processo 
+# Automação de processos 
 ### Conferencia de canhotos.
 
 Software desenvolvido para automatizar um processo de conferencia do status dos canhotos enviados para o cliente.
