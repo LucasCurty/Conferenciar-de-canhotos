@@ -3,9 +3,10 @@
 
 Software desenvolvido para automatizar um processo de conferencia do status dos canhotos enviados para o cliente.
 
-O planejamento foi desenvolver 2 processos semelhantes:
-  - Automação de conferência
-  - Automação de envio de canhotos
+O planejamento foi desenvolver automação de processos:
+  - Conferência
+  - Gerenciamento de pastas (Distribuições conforme status)
+  - Envio de canhotos
 
   ---
 
