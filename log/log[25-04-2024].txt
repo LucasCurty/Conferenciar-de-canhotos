@@ -1,0 +1,54 @@
+
+3845232: Digitalizado
+3845231: Digitalizado
+3845230: Digitalizado
+3845227: Digitalizado
+3845228: Digitalizado
+3845226: Digitalizado
+3845223: Digitalizado
+3845202: Digitalizado
+3845165: Digitalizado
+3845164: Digitalizado
+3845163: Digitalizado
+3845162: Digitalizado
+3840047: Digitalizado
+240067: Ag. Aprovação
+240068: Ag. Aprovação
+240069: Ag. Aprovação
+240070: Ag. Aprovação
+240071: Ag. Aprovação
+240072: Ag. Aprovação
+340107: Nenhum registro encontrado
+3907611: Digitalizado
+3907612: Digitalizado
+3907613: Digitalizado
+3907614: Digitalizado
+3907673: Digitalizado
+3907674: Digitalizado
+3907675: Digitalizado
+2396888781: Pendente
+239672: Ag. Aprovação
+239673: Ag. Aprovação
+239674: Ag. Aprovação
+240073: Ag. Aprovação
+240074: Ag. Aprovação
+240075: Ag. Aprovação
+240105: Ag. Aprovação
+240106: Ag. Aprovação
+3821896: Digitalizado
+3821897: Digitalizado
+3821898: Digitalizado
+3821904: Recebido Físicamente
+3821905: Recebido Físicamente
+3821909: Recebido Físicamente
+3824449: Recebido Físicamente
+3824450: Recebido Físicamente
+240075: Ag. Aprovação
+240105: Ag. Aprovação
+240106: Ag. Aprovação
+3821896: Digitalizado
+3821897: Digitalizado
+3821898: Digitalizado
+3821904: Recebido Físicamente
+3821905: Recebido Físicamente
+3821909: Recebido Físicamente
